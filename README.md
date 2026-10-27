@@ -14,9 +14,6 @@ standard-user updater, without a GitHub account or token. Moving from 0.14 needs
 one complete manual ZIP extraction. Packages include a signed update manifest
 and SHA-256 checksum. Calls and streams are not restarted automatically.
 
-The older 0.13.1, 0.14.0 and 0.14.1 downloads remain withheld following a reported
-Defender detection. The operator approved publication of the reviewed 0.15
-updater revision. This does not replace Microsoft's final sample analysis.
 
 This repository contains downloadable releases only. The application source
 repository remains private. Your profile, account keys and chat history are
