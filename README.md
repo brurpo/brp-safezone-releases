@@ -1,3 +1,5 @@
+> **Windows downloads temporarily withheld.** We are reviewing a Windows Defender detection reported for a SafeZone executable. Do not disable antivirus or add exclusions to run the app.
+
 # BRP SafeZone downloads
 
 BRP SafeZone is a portable Windows app for private communities, voice rooms,
